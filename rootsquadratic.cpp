@@ -11,7 +11,7 @@ r1 =( -b+ sqrt(b*b-4*a*c))/2*a ;
 
 r2 = (-b- sqrt(b*b-4*a*c))/2*a ;
 
-cout<<r1<<r2 ;
+cout<<r1<<endl<<r2 ;
 
 return  0;
 }
